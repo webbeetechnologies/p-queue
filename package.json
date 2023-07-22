@@ -1,6 +1,6 @@
 {
   "name": "@webbeetechnologies/p-queue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "p-queue port",
   "main": "dist/index.js",
   "license": "MIT",
